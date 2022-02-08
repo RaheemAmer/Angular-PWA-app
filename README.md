@@ -1,2 +1,2 @@
-# Pwa Assignment -  ToDo app
+# Pwa Assignment 
 Using Angular 
